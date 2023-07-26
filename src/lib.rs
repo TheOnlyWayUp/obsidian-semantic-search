@@ -214,7 +214,7 @@ pub struct Client {
 }
 
 /// Default v1 API base url
-pub const API_BASE: &str = "https://api.openai.com/v1";
+pub const API_BASE: &str = "https://lai.rambhat.la/v1";
 /// Name for organization header
 pub const ORGANIZATION_HEADER: &str = "OpenAI-Organization";
 
